@@ -1,0 +1,48 @@
+GIT
+  remote: git://github.com/planningalerts-scrapers/atdisplanningalertsfeed.git
+  revision: 410d02d60c1f9d2ecbd61808b0fdcb530c13f924
+  specs:
+    atdisplanningalertsfeed (0.0.1)
+      atdis
+      scraperwiki-morph
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    activemodel (3.2.19)
+      activesupport (= 3.2.19)
+      builder (~> 3.0.0)
+    activesupport (3.2.19)
+      i18n (~> 0.6, >= 0.6.4)
+      multi_json (~> 1.0)
+    atdis (0.3.4)
+      activemodel (~> 3)
+      multi_json (~> 1.7)
+      rest-client
+      rgeo-geojson
+    builder (3.0.4)
+    httpclient (2.4.0)
+    i18n (0.6.11)
+    mime-types (2.3)
+    multi_json (1.10.1)
+    netrc (0.7.7)
+    rest-client (1.7.2)
+      mime-types (>= 1.16, < 3.0)
+      netrc (~> 0.7)
+    rgeo (0.3.20)
+    rgeo-geojson (0.3.1)
+      rgeo (~> 0.3)
+    scraperwiki (3.0.2)
+      httpclient
+      sqlite_magic
+    scraperwiki-morph (0.1.1)
+      scraperwiki
+    sqlite3 (1.3.9)
+    sqlite_magic (0.0.3)
+      sqlite3
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  atdisplanningalertsfeed!
