@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/planningalerts-scrapers/atdisplanningalertsfeed.git
-  revision: 410d02d60c1f9d2ecbd61808b0fdcb530c13f924
+  revision: 4450e357081ca1ec07f65a778e2a641a91d8f719
   specs:
     atdisplanningalertsfeed (0.0.1)
       atdis
