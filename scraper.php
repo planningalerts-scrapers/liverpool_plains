@@ -28,13 +28,12 @@ switch(getenv('MORPH_PERIOD')) {
 }
 print "Getting data for `" .$period. "`, changable via MORPH_PERIOD environment\n";
 
-$cookie_url  = 'http://myhorizon.solorient.com.au/Horizon/logonGuest.aw?domain=horizondap_lpsc';
 $info_url    = 'http://myhorizon.solorient.com.au/Horizon/logonGuest.aw?domain=horizondap_lpsc';
 $comment_url = 'mailto:lpsc@lpsc.nsw.gov.au';
 
 # setup all the cookies then request for the xml page
 $browser = new PGBrowser();
-$page    = $browser->get($cookie_url);
+$page    = $browser->get($info_url);
 $page    = $browser->get($xml_url);
 
 $xml = simplexml_load_string($page->html);
