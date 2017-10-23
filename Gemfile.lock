@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/LoveMyData/horizon_xml.git
-  revision: 60dfe396fd3c6b7487b5badb7aa1855a2b2e7bfa
+  revision: 55cf6df5f910474289b91963c779d95375f3dc48
   branch: 1.1-stable
   specs:
-    horizon_xml (1.1.0)
+    horizon_xml (1.1.1)
       mechanize
 
 GIT
