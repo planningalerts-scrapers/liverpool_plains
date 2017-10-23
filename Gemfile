@@ -7,4 +7,4 @@ source "https://rubygems.org"
 ruby "2.4.1"
 
 gem "scraperwiki", git: "https://github.com/openaustralia/scraperwiki-ruby.git", branch: "morph_defaults"
-gem "horizon_xml", git: "https://github.com/LoveMyData/horizon_xml.git", branch: "master"
+gem "horizon_xml", git: "https://github.com/LoveMyData/horizon_xml.git", branch: "1.1-stable"
