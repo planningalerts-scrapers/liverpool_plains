@@ -1,0 +1,36 @@
+---
+- council_reference: CC 2019/29.1
+  address: 1202 Coonabarabran Road QUIRINDI 2343 NSW
+  description: New Works Carport / Garage / Shed
+  info_url: http://myhorizon.solorient.com.au/Horizon/logonGuest.aw?domain=horizondap_lpsc
+  comment_url: mailto:lpsc@lpsc.nsw.gov.au
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: DA 2018/64.2
+  address: 3 Davies Street QUIRINDI 2343 NSW
+  description: 'Section 4.55(1A) Modification to DA 64/2018: Construction of a Shed'
+  info_url: http://myhorizon.solorient.com.au/Horizon/logonGuest.aw?domain=horizondap_lpsc
+  comment_url: mailto:lpsc@lpsc.nsw.gov.au
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-04'
+- council_reference: DA 2019/29.1
+  address: 1202 Coonabarabran Road QUIRINDI 2343 NSW
+  description: New Farm Building (Machinery/Hay Shed)
+  info_url: http://myhorizon.solorient.com.au/Horizon/logonGuest.aw?domain=horizondap_lpsc
+  comment_url: mailto:lpsc@lpsc.nsw.gov.au
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: OC 2002/94.1
+  address: 42 Callaghans Lane QUIRINDI 2343 NSW
+  description: Detached Shed (Pitched Pop-Top)
+  info_url: http://myhorizon.solorient.com.au/Horizon/logonGuest.aw?domain=horizondap_lpsc
+  comment_url: mailto:lpsc@lpsc.nsw.gov.au
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-04'
+- council_reference: OC 2019/29.1
+  address: 1202 Coonabarabran Road QUIRINDI 2343 NSW
+  description: New Works Carport / Garage / Shed
+  info_url: http://myhorizon.solorient.com.au/Horizon/logonGuest.aw?domain=horizondap_lpsc
+  comment_url: mailto:lpsc@lpsc.nsw.gov.au
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
